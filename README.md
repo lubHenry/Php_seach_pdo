@@ -1,4 +1,4 @@
-# Php_seach_pdo
+# Php_search_pdo
 
 This is to create a live search in PHP to filter database results. It lets the users enter the keyword, based on which the search is going to happen.
 
